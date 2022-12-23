@@ -1,0 +1,48 @@
+1 hau= 7 lar= 7 animaux= 2
+-A---A-
+YYRRRBB
+YYVVVBB
+RRVVVGG
+RRVVVGG
+YBBRYYR
+YBBRYYR
+
+2 hau= 8 lar= 8 animaux= 4
+----AAAA
+---RRBRV
+--RVRBRV
+-RRVBVBB
+VBVBBVB|
+BBVBRV||
+VVRVR|||
+RVRV||||
+
+3 hau= 8 lar= 5 animaux= 2
+-AA--
+-YR--
+-VR--
+-YR--
+RRRRR
+RRRRR
+RRRRR
+RRRRR
+
+4 hau= 8 lar= 8 animaux= 5
+RRYYAY|V
+YRRARB|B
+RYABBB|B
+R||||||B
+A|-|VVVV
+Y|-|BVVV
+A|-|VBBB
+Y|-|BBBB
+
+5 hau= 8 lar= 7 animaux= 3
+-A---A-
+YYRRRBB
+YY|VVBB
+RR|V|GG
+RRBVVAG
+Y|BR||R
+YBBRYYR
+BBRRGGG
